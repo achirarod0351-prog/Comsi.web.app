@@ -1,0 +1,6 @@
+{
+  "name": "Calendar App",
+  "description": "A modern, responsive calendar application allowing users to log in and securely manage their tasks, events, and schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
